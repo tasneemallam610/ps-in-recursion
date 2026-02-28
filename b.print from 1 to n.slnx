@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="b.print from 1 to n/b.print from 1 to n.vcxproj" />
-</Solution>
